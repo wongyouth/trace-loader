@@ -1,0 +1,17 @@
+{
+  "name": "trace-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader to output all source code to STDOUT for debugging between loader pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/wongyouth/trace-loader",
+  "repository": "github:wongyouth/trace-loader",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "loader-utils": "^1.1.0"
+  }
+}
